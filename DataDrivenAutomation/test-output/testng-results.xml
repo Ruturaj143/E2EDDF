@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="178934" started-at="2019-12-02T07:18:38Z" finished-at="2019-12-02T07:21:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="178934" started-at="2019-12-02T07:18:38Z" finished-at="2019-12-02T07:21:37Z">
+      <class name="com.mindtree.testcases.TC_002_ValidateRegisterFunctionality">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="beforeTest" is-config="true" duration-ms="236" started-at="2019-12-02T12:48:38Z" finished-at="2019-12-02T12:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="driverInitiate()[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="driverInitiate" is-config="true" duration-ms="6556" started-at="2019-12-02T12:48:39Z" finished-at="2019-12-02T12:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitiate -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="register" duration-ms="73281" started-at="2019-12-02T12:48:45Z" data-provider="dataProvider" finished-at="2019-12-02T12:49:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCP_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sushma143@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ruturaj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Madiwale]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1996]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="driverClose" is-config="true" duration-ms="829" started-at="2019-12-02T12:49:58Z" finished-at="2019-12-02T12:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="driverInitiate()[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="driverInitiate" is-config="true" duration-ms="5600" started-at="2019-12-02T12:49:59Z" finished-at="2019-12-02T12:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitiate -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="register" duration-ms="10436" started-at="2019-12-02T12:50:05Z" data-provider="dataProvider" finished-at="2019-12-02T12:50:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCN_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sony]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[math]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="driverClose" is-config="true" duration-ms="1330" started-at="2019-12-02T12:50:15Z" finished-at="2019-12-02T12:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.mindtree.testcases.TC_002_ValidateRegisterFunctionality@61f8bee4]" name="afterTest" is-config="true" duration-ms="424" started-at="2019-12-02T12:51:37Z" finished-at="2019-12-02T12:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.mindtree.testcases.TC_002_ValidateRegisterFunctionality -->
+      <class name="com.mindtree.testcases.TC_001_ValidateLoginFunctionality">
+        <test-method status="PASS" signature="driverInitiate()[pri:0, instance:com.mindtree.testcases.TC_001_ValidateLoginFunctionality@7b49cea0]" name="driverInitiate" is-config="true" duration-ms="8467" started-at="2019-12-02T12:50:17Z" finished-at="2019-12-02T12:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitiate -->
+        <test-method status="PASS" signature="checkLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mindtree.testcases.TC_001_ValidateLoginFunctionality@7b49cea0]" name="checkLogin" duration-ms="52683" started-at="2019-12-02T12:50:25Z" data-provider="dataProvider" finished-at="2019-12-02T12:51:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCP_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sushma@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.mindtree.testcases.TC_001_ValidateLoginFunctionality@7b49cea0]" name="driverClose" is-config="true" duration-ms="931" started-at="2019-12-02T12:51:18Z" finished-at="2019-12-02T12:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="driverInitiate()[pri:0, instance:com.mindtree.testcases.TC_001_ValidateLoginFunctionality@7b49cea0]" name="driverInitiate" is-config="true" duration-ms="5550" started-at="2019-12-02T12:51:19Z" finished-at="2019-12-02T12:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitiate -->
+        <test-method status="PASS" signature="checkLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mindtree.testcases.TC_001_ValidateLoginFunctionality@7b49cea0]" name="checkLogin" duration-ms="11711" started-at="2019-12-02T12:51:24Z" data-provider="dataProvider" finished-at="2019-12-02T12:51:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCN_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uname3 ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.mindtree.testcases.TC_001_ValidateLoginFunctionality@7b49cea0]" name="driverClose" is-config="true" duration-ms="882" started-at="2019-12-02T12:51:36Z" finished-at="2019-12-02T12:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.mindtree.testcases.TC_001_ValidateLoginFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+2019-12-02 12:48:45 INFO  MyAutomation:25 - ---Register Execution started-----
+2019-12-02 12:49:55 INFO  MyAutomation:28 - sign in clicked
+2019-12-02 12:49:55 INFO  MyAutomation:31 - email entered
+2019-12-02 12:49:55 INFO  MyAutomation:34 - crate account entered
+2019-12-02 12:49:57 INFO  MyAutomation:37 - gender selected
+2019-12-02 12:49:58 INFO  MyAutomation:40 - FirstName entered
+2019-12-02 12:49:58 INFO  MyAutomation:43 - Last Name entered
+2019-12-02 12:49:58 INFO  MyAutomation:46 - password entered
+2019-12-02 12:49:58 INFO  MyAutomation:49 - DOB entered
+2019-12-02 12:49:58 INFO  MyAutomation:52 - DOM entered
+2019-12-02 12:49:58 INFO  MyAutomation:55 - DOY entered
+2019-12-02 12:50:05 INFO  MyAutomation:25 - ---Register Execution started-----
+2019-12-02 12:50:15 ERROR MyAutomation:59 - Failed at some step
+2019-12-02 12:50:25 INFO  MyAutomation:27 - ----Login execution Started------
+2019-12-02 12:51:09 INFO  MyAutomation:30 - sign in button clicked
+2019-12-02 12:51:09 INFO  MyAutomation:33 - username entered
+2019-12-02 12:51:10 INFO  MyAutomation:36 - password entered
+2019-12-02 12:51:18 INFO  MyAutomation:39 - login button clicked
+2019-12-02 12:51:18 INFO  MyAutomation:42 - login done and compared the actual login username with expected username
+2019-12-02 12:51:24 INFO  MyAutomation:27 - ----Login execution Started------
+2019-12-02 12:51:36 ERROR MyAutomation:51 - Test case failed at some step
+2019-12-03 09:52:43 INFO  MyAutomation:25 - ---Register Execution started-----
+2019-12-06 09:53:11 INFO  MyAutomation:25 - ---Register Execution started-----
